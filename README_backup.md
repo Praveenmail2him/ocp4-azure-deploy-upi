@@ -41,8 +41,8 @@ https://github.com/openshift/installer/blob/d0f7654bc4a0cf73392371962aef68cd9552
 2. Clone this repository
 
 ```sh
-  $> git clone https://github.com/JuozasA/ocp4-azure-upi.git
-  $> cd ocp4-azure-upi
+  $> git clone https://github.com/Praveenmail2him/ocp4-azure-deploy-upi.git
+  $> cd ocp4-azure-deploy-upi
 ```
 
 3. Initialize Terraform working directories (current and worker):
